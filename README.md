@@ -1,4 +1,4 @@
-# Give Me Some Credit
+# Give Me Some Credit 🏦
 
 ## Index
 1. [Introduction](#1-introduction)
@@ -61,4 +61,12 @@ Following the balancing act and retraining the models on this equitably distribu
 
 This project highlighted the importance of understanding the data's nature and challenges it might pose. While advanced models and hyperparameter tuning play a role, sometimes addressing fundamental data issues, like class imbalance, can make all the difference. The success in handling undersampling was pivotal, turning the project's trajectory from a potential misclassification disaster to an insightful solution to the credit scoring problem.
 
+## Tools & Libraries
+
+This project was implemented using Python and its rich ecosystem of data science libraries. The primary tools and libraries used include:
+
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical operations.
+- **Scikit-learn**: For building and evaluating machine learning models.
+- **Seaborn & Matplotlib**: For data visualization.
 
