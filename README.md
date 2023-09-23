@@ -29,6 +29,7 @@ Two attributes exhibited missing values:
 
 ### Checking Data Correlation
 ![Correlation](plots/correlation.png)
+
 Correlation heatmaps were employed to ascertain the relationships between different attributes. Attributes with extremely high correlations, like 0.99 and 0.98, were identified and eliminated to reduce multicollinearity and ensure model reliability.
 
 ## 3. Model Building & Grid Search
