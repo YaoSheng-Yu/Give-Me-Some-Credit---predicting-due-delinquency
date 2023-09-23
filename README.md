@@ -23,7 +23,7 @@ Two attributes exhibited missing values:
 - For `NumberOfDependents`, the median was employed to replace missing values.
   
 - Addressing `MonthlyIncome` was more involved:
-- 
+
 ![Age and Income Relationship](plots/age.png)
 
   - The plot highlighted distinct income brackets among different age groups. Specifically, individuals aged between 25 to 70 had a noticeable proportion earning above 30,000, while others predominantly fell within the 0 to 25,000 range.
